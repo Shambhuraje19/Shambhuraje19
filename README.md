@@ -1,7 +1,7 @@
 ![logo](https://github.com/Shambhuraje19/Shambhuraje19/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(1).png)
 # 💫 About Me:
 🔭 I’m currently working on Django and React Js<br>🤝 I’m looking for help with writing the code <br>🌱 I’m currently learning Computer Science And Engineering<br>💬 Ask me about https://www.linkedin.com/in/shambhuraje-deshmukh-317909216/<br>⚡ Fun fact I am Funny Person
-<img align="right" alt="Coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSsqs-4YYdmLyXZH45yk6Kl5D3CHJ8IRK1g&usqp=CAU">
+<img align="right" alt="Coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaSsqs-4YYdmLyXZH45yk6Kl5D3CHJ8IRK1g&usqp=CAU">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shambhuraje-deshmukh-317909216/) 
